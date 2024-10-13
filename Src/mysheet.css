@@ -1,0 +1,23 @@
+body{}
+
+h1{
+    font-size: 300%;
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(43, 26, 26)
+
+
+}
+p{
+    font-size: 150%;
+    color:brown
+    
+}
+caption{ 
+font-size: 150%;
+font-weight:  bold;
+color:rgb(37, 10, 10)
+}
+lable{
+
+    color: rgb(240, 221, 197);
+}
